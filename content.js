@@ -30,8 +30,5 @@ function handleKeydown(event) {
 // Select all video elements on the page
 const videos = document.querySelectorAll("video");
 
-// Loop through each video and apply the speedUpVideo function
-// videos.forEach(speedUpVideo);
-
 // Add a keydown event listener to the document
 document.addEventListener("keydown", handleKeydown);
