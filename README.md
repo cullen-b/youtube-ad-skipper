@@ -1,6 +1,11 @@
 ## youtube-ad-skipper
 Speeds up YouTube ads 16x, effectively skipping the ad!
 
+Thanks for using my extension, it was a quick project that has saved me countless hours!
+
+If you have questions about the extension, feel free to email me:
+**clnbkrpvd@gmail.com**
+
 # How to install on Chrome
 - This extension works with any browser built on Chromium
 - Clone (or download) the repo to your machine
@@ -23,8 +28,3 @@ Speeds up YouTube ads 16x, effectively skipping the ad!
 # In the future
 - I want to find out how to automatically detect YouTube ads and not have to worry about toggling the playback speed but YT makes it hard
 - I want to automatically press the skip button (if there is one on the ad)
-
-Thanks for using my extension, it was a quick project that has saved me countless hours!
-
-If you have questions about the extension, feel free to email me:
-**clnbkrpvd@gmail.com**
